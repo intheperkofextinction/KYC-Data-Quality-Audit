@@ -1,0 +1,274 @@
+Full_name,Client ID,Date of Birth,Country,ID Number,ID Type,Onboarding Date,KYC Status,Account Type,Aadhaar Number,PAN,Country_Corrected,flag
+Dr. Julie Miller,CL148759,1991-01-07,Togo,tN137189,National ID,2022-09-22,Incomplete,Corporate,,,Togo,Incomplete KYC
+Alyssa Washington,CL789461,1958-02-18,Sudan,rr814429,Driver License,2023-08-06,Incomplete,Corporate,,,Sudan,Incomplete KYC
+Lindsey Kent,CL899407,1999-10-16,American Samoa,Fl275243,Driver License,2024-09-29,Incomplete,Corporate,,,American Samoa,Incomplete KYC
+William Coffey,CL731792,1990-01-11,Tokelau,UO276637,National ID,2023-03-19,Incomplete,HNI,,,Tokelau,Incomplete KYC
+Sarah Brown,CL327900,1967-06-30,Cote d'Ivoire,tE102767,National ID,2024-10-07,Incomplete,HNI,,,Côte d'Ivoire,Incomplete KYC
+Anne Schmidt,CL799565,1973-07-31,Pitcairn Islands,Zg694544,National ID,2023-08-03,Incomplete,Corporate,,,Pitcairn,Incomplete KYC
+Alexandra Davis,CL400538,1956-07-28,Algeria,cb753443,Passport,2025-02-19,Incomplete,Retail,,,Algeria,Incomplete KYC
+,CL953568,1953-05-16,Bermuda,Mi939111,National ID,2024-02-07,Complete,HNI,,,Bermuda,Missing Full Name
+Steven Carrillo,CL818430,1971-07-06,Seychelles,yv421406,National ID,2022-10-04,,HNI,,,Seychelles,Incomplete KYC
+Deborah Alexander,CL918859,1982-12-18,Eritrea,jI396271,Driver License,2024-05-02,Incomplete,HNI,,,Eritrea,Incomplete KYC
+Mr. Aaron Johnson MD,CL225151,1959-10-27,Ukrainf,EB569087,Driver License,2024-03-21,Incomplete,Retail,,,Ukraine,Incomplete KYC
+Mark Benjamin,CL911242,1955-09-03,Gabon,Pm585174,National ID,2023-04-03,Incomplete,Corporate,,,Gabon,Incomplete KYC
+Riley Bryant,CL934883,1961-02-12,United Kingdom,ZN911179,Driver License,2023-06-10,Incomplete,Retail,,,United Kingdom,Incomplete KYC
+,CL851690,1980-02-26,Mali,lT632909,Passport,2024-08-17,,Retail,,,Mali,"Missing Full Name, Incomplete KYC"
+Lori Patton,CL702891,1973-03-04,New Zealand,Hg608331,Driver License,2025-02-18,Incomplete,HNI,,,New Zealand,Incomplete KYC
+Victoria Romero,CL508422,1981-02-03,Guyana,RE340312,National ID,2024-08-13,,HNI,,,Guyana,Incomplete KYC
+Cindy Wells,CL404771,1980-12-29,Liechtenstein,BL406335,Driver License,2023-06-13,,HNI,,,Liechtenstein,Incomplete KYC
+Theresa Mcintyre,CL474486,1949-11-06,Uganda,BH600780,National ID,2024-03-06,Incomplete,HNI,,,Uganda,Incomplete KYC
+Cathy Savage,CL980919,1992-02-27,Tunisia,cs701658,National ID,2024-04-24,Incomplete,Corporate,,,Tunisia,Incomplete KYC
+Crystal Meza,CL377198,1993-05-16,Angola,LQ569557,Passport,2025-06-19,Incomplete,Corporate,,,Angola,Incomplete KYC
+Jill Torres,CL148693,1958-06-25,Marshall Islands,,National ID,2023-10-22,Incomplete,HNI,,,Marshall Islands,Incomplete KYC
+Christopher Erickson,CL333726,1994-11-06,France,Ki223105,Driver License,2024-05-17,Incomplete,Corporate,,,France,Incomplete KYC
+,CL700067,1964-08-14,Malta,RQ430187,Passport,2022-11-15,Complete,HNI,,,Malta,Missing Full Name
+John Morrison,CL690982,1984-04-24,Malaysia,yx056265,National ID,2022-07-21,Incomplete,Retail,,,Malaysia,Incomplete KYC
+Eric Griffin,CL594312,1987-09-06,Finland,kZ137674,Passport,2024-04-21,Incomplete,HNI,,,Finland,Incomplete KYC
+Mallory Martinez,CL921945,1994-10-26,Zimbabwe,hW462730,Passport,2023-09-06,,HNI,,,Zimbabwe,Incomplete KYC
+Andrea Reese DDS,CL967719,1987-12-28,Lithuania,,National ID,2024-05-10,Incomplete,Corporate,,,Lithuania,Incomplete KYC
+Michael Mccann,CL549793,2005-03-09,Trinidad and Tobago,kL158904,Driver License,2022-10-01,Incomplete,Corporate,,,Trinidad and Tobago,Incomplete KYC
+Shawn Taylor,CL898531,1960-08-13,Cameroon,ss045650,National ID,2024-10-02,,Retail,,,Cameroon,Incomplete KYC
+Melissa Davis,CL706063,1988-12-22,Faroe Islands,xX520284,National ID,2024-07-25,,HNI,,,Faroe Islands,Incomplete KYC
+Thomas Garcia,CL528705,1960-01-08,Isle of Man,IT833898,Passport,2024-11-05,Incomplete,Corporate,,,Isle of Man,Incomplete KYC
+William Mills,CL287401,1972-10-11,Svalbard & Jan Mayen Islands,Sj240132,National ID,2025-06-05,Incomplete,HNI,,,Åland Islands,Incomplete KYC
+Michael Johnson,CL943442,1959-05-29,United Arab Emirates,,Passport,2023-09-06,Incomplete,Retail,,,United Arab Emirates,Incomplete KYC
+Heather Wyatt,CL738613,2002-08-20,Yemeh,,Driver License,2025-02-09,Incomplete,HNI,,,Yemeh,Incomplete KYC
+Andrea Weiss,CL726495,2001-06-10,Dominican Republic,,Passport,2022-07-24,Incomplete,Retail,,,Dominican Republic,Incomplete KYC
+Corey Campbell,CL942960,2000-10-24,Marshall Islands,xS801387,Passport,2025-01-03,,HNI,,,Marshall Islands,Incomplete KYC
+Emily Cherry,CL676289,1979-09-18,Korea,eZ386463,National ID,2024-07-10,Incomplete,Corporate,,,"Korea, Republic of",Incomplete KYC
+Gina Larson,CL952646,1977-01-05,Haiti,Lr136749,Driver License,2025-03-29,Incomplete,HNI,,,Haiti,Incomplete KYC
+Tommy Johnson,CL926965,1999-09-17,Iran,MR017026,National ID,2023-11-22,Incomplete,Corporate,,,"Iran, Islamic Republic of","Incomplete KYC, High-Risk Country"
+Scott Payne,CL179721,2001-06-28,Mauritius,yC061675,Passport,2024-06-16,Incomplete,Retail,,,Mauritius,Incomplete KYC
+Mary Jennings,CL316823,1988-06-10,Montenegro,zq778280,Passport,2024-08-09,Incomplete,Retail,,,Montenegro,Incomplete KYC
+Lori James,CL489227,1978-08-21,Anguilla,pp556503,Driver License,2025-04-04,Incomplete,Corporate,,,Anguilla,Incomplete KYC
+Victoria Gray,CL582418,1976-01-23,Latvia,vF591713,Passport,2024-08-22,,Retail,,,Latvia,Incomplete KYC
+Gina Mendez,CL479167,1974-03-24,Sudan,sq637183,Driver License,2022-09-14,Incomplete,Retail,,,Sudan,Incomplete KYC
+Jennifer Perez PhD,CL459762,1955-10-05,French Southern Territories,KZ919541,Driver License,2024-10-04,Incomplete,HNI,,,French Southern Territories,Incomplete KYC
+Kim Mendez,CL623866,2001-11-03,Ethiopia,Dj690835,National ID,2023-07-11,Incomplete,Corporate,,,Ethiopia,Incomplete KYC
+Amy Harris,CL760458,1977-07-27,Tokelau,,National ID,2023-08-21,Incomplete,Corporate,,,Tokelau,Incomplete KYC
+Dr. Javier Bullock,CL283017,1963-04-01,Kyrgyz Republic,QJ242044,Driver License,2023-04-02,Incomplete,HNI,,,Central African Republic,Incomplete KYC
+Kelly Crawford,CL432270,1955-08-24,Zambia,Vy391559,National ID,2023-07-04,Incomplete,Corporate,,,Zambia,Incomplete KYC
+Charles Thompson,CL480805,1968-03-08,Vietnam,Ix764907,National ID,2025-06-23,Incomplete,Retail,,,Vietnam,Incomplete KYC
+,CL863124,1957-03-10,Yemen,Yj586734,Driver License,2024-01-17,Complete,Retail,,,Yemen,Missing Full Name
+Melinda Nichols,CL208976,1965-08-03,Guyana,fW760644,Passport,2023-07-03,,Corporate,,,Guyana,Incomplete KYC
+Michelle Mcdowell,CL440998,2005-04-27,Vanuatl,AM124815,Driver License,2024-10-30,Incomplete,HNI,,,Vanuatu,Incomplete KYC
+Michael Gill,CL831510,1993-02-23,Saint Pierre and Miquelon,Ot272063,National ID,2023-11-02,Incomplete,HNI,,,Saint Pierre and Miquelon,Incomplete KYC
+Christopher Black,CL464032,2001-09-26,Morocco,Vi296577,Passport,2023-08-11,Incomplete,Corporate,,,Morocco,Incomplete KYC
+James Bennett,CL821179,2006-04-21,Israel,Oo930089,Driver License,2022-11-18,Incomplete,Corporate,,,Israel,Incomplete KYC
+Michael Jackson,CL674842,1976-10-16,Kyrgyz Republic,xk969421,Driver License,2024-11-30,Incomplete,Corporate,,,Central African Republic,Incomplete KYC
+Scott Greene,CL938817,2005-07-31,Hong Kong,bs436262,National ID,2023-08-13,Incomplete,HNI,,,Hong Kong,Incomplete KYC
+Susan Wood,CL532961,1996-01-25,Dominica,Sz710725,Passport,2025-06-03,Incomplete,Retail,,,Dominica,Incomplete KYC
+,CL207241,1995-02-24,New Caledonir,yt900489,Passport,2024-03-07,Complete,Retail,,,New Caledonia,Missing Full Name
+Walter Hansen,CL458521,1989-01-02,Paraguaa,Di242875,Driver License,2022-11-19,Incomplete,HNI,,,Paraguay,Incomplete KYC
+Jessica Green,CL984522,1970-10-27,Ghana,sq027456,Passport,2025-02-09,,Corporate,,,Ghana,Incomplete KYC
+Valerie Fox,CL676276,1988-05-06,Croatia,vb261371,Driver License,2023-09-17,Incomplete,Retail,,,Croatia,Incomplete KYC
+Mrs. Jacqueline Hickman,CL799080,1956-09-20,Pitcairn Islands,DO520177,Passport,2023-08-25,Incomplete,Corporate,,,Pitcairn,Incomplete KYC
+Erin Williams,CL225461,1991-11-08,Nepaz,ZP759230,Passport,2023-09-15,,Retail,,,Nepaz,Incomplete KYC
+Carla Chan,CL454861,1968-11-22,Angola,RM214764,National ID,2023-01-22,,Corporate,,,Angola,Incomplete KYC
+Sandra Hunt,CL929912,1982-10-27,Guinea-Bissau,Bf767499,Driver License,2024-04-19,Incomplete,Corporate,,,Guinea-Bissau,Incomplete KYC
+,CL496119,1974-07-24,Sudan,Gv926610,Passport,2024-06-22,Complete,Corporate,,,Sudan,Missing Full Name
+Michael Moore,CL669097,1983-03-18,Philippines,fZ881476,Passport,2024-07-13,Incomplete,Corporate,,,Philippines,Incomplete KYC
+Julie Hartman,CL750324,2006-11-11,Brazil,LU601645,National ID,2024-06-08,,HNI,,,Brazil,Incomplete KYC
+Loretta Baker,CL816412,2004-08-15,Saudi Arabia,Rg232194,National ID,2024-05-06,Incomplete,Corporate,,,Saudi Arabia,Incomplete KYC
+James Smith,CL200932,1994-02-17,Martinique,NN776974,Passport,2024-01-14,,Retail,,,Martinique,Incomplete KYC
+,CL212255,1995-05-10,Portugal,mh641220,Passport,2022-07-27,,HNI,,,Portugal,"Missing Full Name, Incomplete KYC"
+Shannon Clark,CL651363,1993-08-22,Qatar,tX236831,National ID,2024-06-21,Incomplete,Retail,,,Qatar,Incomplete KYC
+Jenna Cook,CL536158,1956-06-27,Montenegro,sc667998,National ID,2024-07-29,,HNI,,,Montenegro,Incomplete KYC
+,CL173807,1982-08-01,Iran,Hb899730,Passport,2024-04-18,Complete,Retail,,,"Iran, Islamic Republic of","Missing Full Name, High-Risk Country"
+Corey Cooper,CL210639,1965-04-18,Central African Republic,is839597,National ID,2024-02-29,Incomplete,HNI,,,Central African Republic,Incomplete KYC
+Megan Navarro,CL274912,2003-09-02,Israel,QE729341,National ID,2023-01-19,Incomplete,HNI,,,Israel,Incomplete KYC
+Larry Garcia,CL564531,1977-10-23,China,bw743380,Driver License,2023-08-12,Incomplete,Corporate,,,China,Incomplete KYC
+Dr. Richard Hammond,CL366431,2001-11-27,Czech Republic,Td842891,Driver License,2024-05-13,Incomplete,Retail,,,Central African Republic,Incomplete KYC
+Ryan Rodriguez,CL724702,1956-09-15,South Georgia and the South Sandwich Islands,,Passport,2025-02-05,Incomplete,Retail,,,South Georgia and the South Sandwich Islands,Incomplete KYC
+Jonathan Oconnor,CL377860,1956-04-04,Russian Federatiol,CA255213,National ID,2022-07-13,Incomplete,Corporate,,,Russian Federation,Incomplete KYC
+Kara Mitchell,CL327999,1961-02-26,Ecuadom,jW145653,National ID,2024-10-02,Incomplete,Retail,,,Ecuador,Incomplete KYC
+Brenda Patterson,CL836989,1977-05-10,Italy,Xa785072,Passport,2024-09-13,Incomplete,Retail,,,Italy,Incomplete KYC
+George Morales,CL182289,2002-01-23,Western Sahara,Kd260602,Driver License,2025-03-10,Incomplete,Corporate,,,Western Sahara,Incomplete KYC
+Ashley Black,CL817999,1962-08-09,Maly,ff571266,Passport,2022-10-07,Incomplete,Corporate,,,Maly,Incomplete KYC
+Jeremiah Galvan,CL563690,1982-10-25,North Macedonia,TD622827,Driver License,2023-01-19,,Retail,,,North Macedonia,Incomplete KYC
+,CL319162,2002-11-03,Cambodia,lV960443,Passport,2024-07-31,Incomplete,HNI,,,Cambodia,"Missing Full Name, Incomplete KYC"
+Gregory Harrell,CL248213,1977-12-01,Afghanistan,Yy794975,National ID,2024-07-10,,HNI,,,Afghanistan,Incomplete KYC
+Lisa Gill,CL367865,1983-11-07,Syrian Arab Republic,ZN777251,Driver License,2025-04-30,Incomplete,Retail,,,Syrian Arab Republic,Incomplete KYC
+David Foster,CL169832,1986-04-26,Nigeria,KO074120,Driver License,2023-10-25,Incomplete,Retail,,,Nigeria,Incomplete KYC
+Maria Miller,CL499194,1991-08-09,Monacu,WE890983,National ID,2024-08-21,,Corporate,,,Monaco,Incomplete KYC
+Andrew Atkins,CL449773,1951-02-01,Gibraltar,uy562608,National ID,2023-08-06,Incomplete,HNI,,,Gibraltar,Incomplete KYC
+Christina Faulkner,CL252203,1974-11-27,Tanzania,Cc823868,National ID,2022-07-04,Incomplete,Retail,,,"Tanzania, United Republic of",Incomplete KYC
+Ronald Roberts,CL224138,1960-11-22,Suriname,Ry007494,Passport,2023-12-30,Incomplete,Corporate,,,Suriname,Incomplete KYC
+Lauren Dixon,CL881828,1952-08-06,Tajikistan,zS289141,National ID,2023-01-10,Incomplete,Retail,,,Tajikistan,Incomplete KYC
+Rebekah Henson,CL476712,1972-10-26,New Zealand,,Driver License,2025-03-15,Incomplete,HNI,,,New Zealand,Incomplete KYC
+Andre Collier,CL613742,1995-03-17,Pakistao,yl715695,Driver License,2025-06-19,Incomplete,Corporate,,,Pakistan,Incomplete KYC
+Cynthia Snyder,CL144476,1974-03-16,North korea,mO047930,Passport,2024-03-09,Incomplete,HNI,,,North korea,"Incomplete KYC, High-Risk Country"
+Laura Snyder,CL761282,1987-01-19,Bouvet Island (Bouvetoyam,Li399921,Passport,2022-10-12,Incomplete,Corporate,,,Bouvet Island,Incomplete KYC
+Stacey Walker,CL287567,1968-06-01,Maldives,mv687506,National ID,2022-11-07,Incomplete,Retail,,,Maldives,Incomplete KYC
+,CL279185,2003-07-17,Mali,OC319971,National ID,2024-12-18,Complete,Retail,,,Mali,Missing Full Name
+Antonio Johnson,CL846635,1970-10-27,British Virgin Islands,,Driver License,2025-06-14,Incomplete,Corporate,,,"Virgin Islands, British",Incomplete KYC
+Amy Lang,CL237962,1953-03-25,Bahrain,Jd496110,Passport,2023-10-04,Incomplete,Retail,,,Bahrain,Incomplete KYC
+Larry Carter,CL398194,1950-01-19,Iran,Jd892038,National ID,2024-04-18,Complete,Corporate,,,"Iran, Islamic Republic of",High-Risk Country
+Curtis Kerr,CL137581,2002-12-09,Guatemala,,Driver License,2022-10-17,Incomplete,Retail,,,Guatemala,Incomplete KYC
+John Holt,CL168079,1981-04-23,Guam,tA959959,Passport,2023-11-25,Incomplete,Corporate,,,Guam,Incomplete KYC
+Robin Aguirre,CL926471,1975-01-31,Saint Pierre and Miquelon,ew362050,Driver License,2022-08-18,Incomplete,Corporate,,,Saint Pierre and Miquelon,Incomplete KYC
+Dylan Lee,CL471042,1989-05-11,Moldova,lo500334,National ID,2023-08-14,Incomplete,Corporate,,,"Moldova, Republic of",Incomplete KYC
+Ryan Sanchez,CL344026,1962-11-03,Saint Helena,yP024102,Passport,2022-12-22,,Retail,,,"Saint Helena, Ascension and Tristan da Cunha",Incomplete KYC
+Elizabeth Allen,CL873291,2004-08-02,Guadeloupe,hj528961,National ID,2023-01-22,Incomplete,Retail,,,Guadeloupe,Incomplete KYC
+Joseph Benson,CL768470,1971-02-20,South Africa,mI963099,National ID,2023-10-02,Incomplete,Corporate,,,South Africa,Incomplete KYC
+David Soto,CL631302,1968-07-24,Somalia,YE289731,Passport,2025-04-28,Incomplete,Corporate,,,Somalia,Incomplete KYC
+Jordan Potter,CL130531,1993-05-26,Nicaragua,uT857872,Passport,2024-02-03,Incomplete,HNI,,,Nicaragua,Incomplete KYC
+Michelle Simpson,CL137285,1967-10-06,Malta,mC969033,Driver License,2023-07-02,Incomplete,HNI,,,Malta,Incomplete KYC
+Jeffery Bennett,CL953715,1960-03-14,Indonesia,sC548121,National ID,2024-09-15,,HNI,,,Indonesia,Incomplete KYC
+Andrew Hunt,CL430828,1972-05-23,Guinea,ZF677665,Passport,2023-11-07,Incomplete,Corporate,,,Guinea,Incomplete KYC
+Darren Wilson,CL222520,1974-01-06,Solomon Islands,qt083535,Driver License,2025-05-29,Incomplete,HNI,,,Solomon Islands,Incomplete KYC
+Michael Bolton,CL349185,2000-09-13,Tanzanin,Yz840445,Driver License,2024-03-24,Incomplete,Retail,,,"Tanzania, United Republic of",Incomplete KYC
+Mary Kennedy,CL197102,1984-05-21,Iran,oH263337,Passport,2024-12-30,Complete,Retail,,,"Iran, Islamic Republic of",High-Risk Country
+,CL989322,2004-08-25,Luxembourg,WX553666,Passport,2025-06-09,Complete,Retail,,,Luxembourg,Missing Full Name
+Wendy Carroll,CL658131,2003-11-19,Cape Verde,ze999663,Driver License,2024-10-10,Incomplete,Retail,,,Cape Verde,Incomplete KYC
+Brian Hudson,CL753205,1980-03-24,Hungary,cS412182,Passport,2025-01-25,Incomplete,HNI,,,Hungary,Incomplete KYC
+Jason Paul,CL510954,1975-12-22,Bouvet Island (Bouvetoya),kM323467,National ID,2024-12-12,Incomplete,HNI,,,Bouvet Island,Incomplete KYC
+Keith Henry,CL941325,1980-12-27,Malta,ST901475,Driver License,2023-10-08,,Corporate,,,Malta,Incomplete KYC
+Rhonda Thompson,CL588003,1966-06-16,India,SK296762,Passport,2022-11-28,Incomplete,Corporate,6032 4841 3768,GXXUA1511C,India,Incomplete KYC
+Jonathan Murray,CL440536,1954-06-26,Chad,ca765636,Passport,2023-07-27,,Retail,,,Chad,Incomplete KYC
+Sarah Jackson,CL780999,1950-09-25,Iran,,Driver License,2025-01-30,Incomplete,HNI,,,"Iran, Islamic Republic of","Incomplete KYC, High-Risk Country"
+Caleb Figueroa,CL674566,1960-12-18,Bolivia,ln104275,Driver License,2022-08-25,Incomplete,Retail,,,"Bolivia, Plurinational State of",Incomplete KYC
+Dakota Wright,CL846490,1965-09-25,Sierra Leone,vm310600,Driver License,2025-05-24,Incomplete,Corporate,,,Sierra Leone,Incomplete KYC
+Tyler Davis,CL284731,2006-05-08,Paraguay,uu220681,Driver License,2024-11-22,,Retail,,,Paraguay,Incomplete KYC
+Mrs. Kimberly Mooney,CL508926,2007-05-18,Luxembourg,OS924195,Driver License,2024-02-26,Incomplete,Corporate,,,Luxembourg,Incomplete KYC
+Patricia Anderson,CL419343,1961-06-07,Philippines,LC571509,Driver License,2024-02-16,Incomplete,Retail,,,Philippines,Incomplete KYC
+Chad Jimenez,CL100884,1963-04-02,Niger,CV263039,Driver License,2023-11-25,Incomplete,Retail,,,Niger,Incomplete KYC
+Mason Hodges,CL513420,1984-12-12,Burkina Faso,pn640355,National ID,2024-10-17,Incomplete,Corporate,,,Burkina Faso,Incomplete KYC
+Mary Wright,CL597938,1996-04-11,Austria,CO396852,National ID,2022-07-12,Incomplete,Corporate,,,Austria,Incomplete KYC
+Andrea Lee,CL802615,1992-09-02,Bahrain,JY232129,Passport,2023-05-16,,Retail,,,Bahrain,Incomplete KYC
+Jessica Mcdonald,CL789886,1960-09-03,Dominica,ts336293,Passport,2024-12-14,,HNI,,,Dominica,Incomplete KYC
+Christina Huffman,CL927251,1982-03-31,Kiribati,CB156627,Driver License,2024-08-25,Incomplete,HNI,,,Kiribati,Incomplete KYC
+Dawn Ford,CL846722,1980-05-15,Micronesia,vi468971,Driver License,2024-06-30,Incomplete,Retail,,,"Micronesia, Federated States of",Incomplete KYC
+Madison Richardson,CL801200,1953-06-06,Malawi,,National ID,2025-04-09,Incomplete,HNI,,,Malawi,Incomplete KYC
+Nancy Allen,CL111307,1951-11-07,Hungark,Rj502497,National ID,2023-08-02,Incomplete,Corporate,,,Hungary,Incomplete KYC
+Tiffany Skinner,CL408929,1950-05-05,Egypt,Hm116691,Passport,2024-04-20,Incomplete,HNI,,,Egypt,Incomplete KYC
+Dawn Turner,CL759868,1985-10-14,Chad,OK694611,Passport,2023-12-19,Incomplete,HNI,,,Chad,Incomplete KYC
+Paul Conrad,CL186518,1976-08-01,Suriname,eX402701,Passport,2025-06-18,Incomplete,Corporate,,,Suriname,Incomplete KYC
+Dr. Larry Rogers,CL156964,1995-11-26,Venezuela,Nd553566,Passport,2024-01-07,,Corporate,,,"Venezuela, Bolivarian Republic of",Incomplete KYC
+Brett Bryant,CL882395,1997-01-08,Tunisia,rS620918,National ID,2023-07-24,Incomplete,Corporate,,,Tunisia,Incomplete KYC
+Michael Kane,CL555851,1984-07-17,Heard Island and McDonald Islands,,Driver License,2024-04-04,Incomplete,HNI,,,Heard Island and McDonald Islands,Incomplete KYC
+,CL657101,1962-04-17,Panama,RC050505,Driver License,2023-06-30,Incomplete,Corporate,,,Panama,"Missing Full Name, Incomplete KYC"
+Robert Turner,CL645209,1995-04-22,Antigua and Barbuda,QI872717,National ID,2023-07-12,Incomplete,HNI,,,Antigua and Barbuda,Incomplete KYC
+Paul Keller,CL112542,1955-08-03,Ecuadoa,Xr160256,National ID,2023-06-10,Incomplete,Corporate,,,Ecuador,Incomplete KYC
+John Merritt,CL302458,1957-11-17,Saint Helena,,National ID,2025-05-01,,HNI,,,"Saint Helena, Ascension and Tristan da Cunha",Incomplete KYC
+Chelsea Mcmahon,CL179392,1988-06-25,Saint Vincent and the Grenadines,td525690,Driver License,2025-01-04,Incomplete,Corporate,,,Saint Vincent and the Grenadines,Incomplete KYC
+Adam Phelps,CL906048,1971-01-01,Cyprus,Ms243772,National ID,2023-02-14,Incomplete,HNI,,,Cyprus,Incomplete KYC
+,CL173832,1994-10-12,San Marino,rT095481,Driver License,2024-12-10,Complete,Corporate,,,San Marino,Missing Full Name
+Cindy Carter,CL139673,1975-02-20,Lesotho,Xl052330,Driver License,2024-07-29,Incomplete,Corporate,,,Lesotho,Incomplete KYC
+Benjamin Acosta,CL822742,1968-09-19,Saudi Arabia,WY386125,Driver License,2024-12-20,Incomplete,Corporate,,,Saudi Arabia,Incomplete KYC
+Sarah Mckinney,CL762985,1980-08-21,Tonga,jn292774,National ID,2023-06-06,,HNI,,,Tonga,Incomplete KYC
+Anthony Baird,CL413388,1993-09-28,Lebanom,ch596263,Passport,2023-07-12,Incomplete,Corporate,,,Lebanon,Incomplete KYC
+Michael Blevins DDS,CL298667,1975-01-17,Indonesiu,ah176475,Passport,2022-12-31,,HNI,,,Indonesia,Incomplete KYC
+Martin Kerr,CL931247,1964-10-22,Belize,SV099974,Driver License,2022-11-26,Incomplete,Retail,,,Belize,Incomplete KYC
+Janet Cooke,CL856035,1997-04-28,South Africb,,Passport,2024-05-06,Incomplete,HNI,,,South Africa,Incomplete KYC
+Ariana Brown,CL877048,2003-08-14,French Southern Territories,IY826068,Passport,2024-10-03,,Retail,,,French Southern Territories,Incomplete KYC
+,CL748410,1953-11-08,Liechtenstein,,National ID,2024-09-16,Complete,Retail,,,Liechtenstein,Missing Full Name
+Kenneth Delgado,CL312484,1955-06-24,Iran,tx840118,National ID,2024-10-25,Incomplete,Retail,,,"Iran, Islamic Republic of","Incomplete KYC, High-Risk Country"
+Victoria Bell,CL535320,1986-02-16,Germani,mj831030,Driver License,2023-10-11,Incomplete,Retail,,,Germany,Incomplete KYC
+,CL204823,2006-03-01,Togo,wr329839,National ID,2023-01-18,Complete,Retail,,,Togo,Missing Full Name
+Angela Scott,CL107574,1975-06-26,Saint Lucia,Sj267146,Passport,2024-10-12,Incomplete,Corporate,,,Saint Lucia,Incomplete KYC
+Nicholas Cowan,CL599135,1996-12-02,Costa Rica,Aj359892,Passport,2023-11-06,Incomplete,HNI,,,Costa Rica,Incomplete KYC
+Alexander Munoz,CL283027,1954-10-11,Solomon Islands,ev418186,Passport,2025-03-23,Incomplete,HNI,,,Solomon Islands,Incomplete KYC
+Gavin Nelson,CL920597,2003-10-24,Benin,yg340163,Driver License,2023-01-10,,Retail,,,Benin,Incomplete KYC
+Sheri Chapman,CL200331,2004-05-28,China,Jr718594,National ID,2025-01-31,Incomplete,HNI,,,China,Incomplete KYC
+Carolyn Potts,CL303129,1976-01-05,Bolivia,EL258896,Passport,2023-01-17,Incomplete,Corporate,,,"Bolivia, Plurinational State of",Incomplete KYC
+Jose Moore,CL145209,1958-02-06,Eritrea,,Driver License,2023-02-09,Incomplete,Corporate,,,Eritrea,Incomplete KYC
+Troy Meyer,CL221703,1998-05-24,Macao,,Passport,2023-06-23,Incomplete,Corporate,,,Macao,Incomplete KYC
+Kristen Vasquez,CL493774,1950-03-25,Belize,RR682778,Passport,2024-10-07,Incomplete,Retail,,,Belize,Incomplete KYC
+Adrian Lee,CL739037,2006-01-29,Qatar,RM068538,Driver License,2022-09-06,Incomplete,HNI,,,Qatar,Incomplete KYC
+Christopher Conrad,CL382795,2001-06-22,New Caledonia,Gw832152,Passport,2022-09-20,,HNI,,,New Caledonia,Incomplete KYC
+Hector Smith,CL326956,1998-08-31,Kuwait,Fm265016,Driver License,2022-11-11,Incomplete,HNI,,,Kuwait,Incomplete KYC
+,CL593515,1961-11-25,Japan,iw841772,National ID,2024-05-07,,HNI,,,Japan,"Missing Full Name, Incomplete KYC"
+,CL801534,1998-11-27,Macao,jw621102,National ID,2024-08-17,Complete,Corporate,,,Macao,Missing Full Name
+Adam Arnold,CL652266,1958-05-15,Bouvet Island (Bouvetoya),xp555989,Driver License,2025-04-08,Incomplete,Corporate,,,Bouvet Island,Incomplete KYC
+James Eaton,CL826897,1958-05-20,Falkland Islands (Malvinas),TC910933,Passport,2022-12-03,Incomplete,Retail,,,Falkland Islands (Malvinas),Incomplete KYC
+Autumn Graham,CL776000,1982-05-11,Kiribati,,Passport,2024-04-13,,Retail,,,Kiribati,Incomplete KYC
+Kathy Johnson,CL452192,1990-04-11,Malta,YS424090,Driver License,2023-04-24,Incomplete,Corporate,,,Malta,Incomplete KYC
+Kristen Jackson,CL274444,1952-08-09,French Polynesia,ir834024,Passport,2022-09-21,Incomplete,Retail,,,French Polynesia,Incomplete KYC
+Rhonda Mullins,CL252446,1960-02-04,Costa Rica,fF736527,Driver License,2023-04-10,Incomplete,HNI,,,Costa Rica,Incomplete KYC
+Scott Lopez,CL403905,1982-11-18,Kuwait,zR240422,National ID,2025-02-01,Incomplete,Corporate,,,Kuwait,Incomplete KYC
+Debra Mays,CL904357,1990-04-23,Egypt,mi001851,Passport,2024-07-18,,Corporate,,,Egypt,Incomplete KYC
+Ashley Phillips,CL995278,1984-04-24,Angola,By620303,Driver License,2023-02-16,Incomplete,Corporate,,,Angola,Incomplete KYC
+Courtney Koch,CL688285,1975-09-07,Guinea,,National ID,2025-06-03,Incomplete,Corporate,,,Guinea,Incomplete KYC
+Angela Williams,CL650818,1959-10-14,Uzbekistan,RB268592,Passport,2023-02-21,Incomplete,Retail,,,Uzbekistan,Incomplete KYC
+Erica Myers,CL680771,1998-08-04,Slovakia (Slovak Republic),jf711964,Driver License,2023-11-16,Incomplete,Corporate,,,Slovakia,Incomplete KYC
+James Flores,CL128143,1978-05-06,Brunei Darussalam,yA769523,Passport,2024-11-02,Incomplete,Retail,,,Brunei Darussalam,Incomplete KYC
+Isaiah Harris,CL169966,2007-05-21,Reunion,dw058721,Driver License,2024-01-14,Incomplete,Corporate,,,Réunion,Incomplete KYC
+Brittany White,CL901834,2000-02-07,Switzerland,,Passport,2023-02-05,Incomplete,HNI,,,Switzerland,Incomplete KYC
+Tiffany Harrison,CL831871,1998-09-03,San Marino,dP570412,Passport,2022-08-21,Incomplete,Retail,,,San Marino,Incomplete KYC
+Rose Mcdonald,CL958620,1970-10-25,Netherlands,mr662056,Passport,2022-12-18,Incomplete,HNI,,,Netherlands,Incomplete KYC
+Larry Bradford,CL726680,1951-05-31,Bosnia and Herzegovina,nM342811,Driver License,2022-07-20,Incomplete,Retail,,,Bosnia and Herzegovina,Incomplete KYC
+Chelsea Harris,CL234966,1951-09-15,Saudi Arabia,KY341990,Passport,2024-07-23,Incomplete,Retail,,,Saudi Arabia,Incomplete KYC
+Brandon Parker,CL545440,1973-10-09,Aruba,Uw468356,Passport,2023-01-20,,Corporate,,,Aruba,Incomplete KYC
+,CL213054,1995-06-01,Reunion,,National ID,2022-12-01,Complete,Corporate,,,Réunion,Missing Full Name
+,CL416298,1977-03-21,North korea,Yy818209,Passport,2024-07-12,Complete,HNI,,,North korea,"Missing Full Name, High-Risk Country"
+Amanda Martin,CL468609,1995-12-09,Namibia,,Passport,2024-06-21,Incomplete,HNI,,,Namibia,Incomplete KYC
+Dustin Ortiz,CL215674,1991-09-03,North korea,xf275895,Driver License,2025-05-27,Incomplete,HNI,,,North korea,"Incomplete KYC, High-Risk Country"
+Deborah Hutchinson,CL617695,1995-12-14,Isle of Man,jg090380,Driver License,2023-09-27,Incomplete,HNI,,,Isle of Man,Incomplete KYC
+Sylvia Nielsen,CL113406,2001-10-12,Cocos (Keeling) Islands,vM636515,Driver License,2024-07-27,Incomplete,Corporate,,,Cocos (Keeling) Islands,Incomplete KYC
+Timothy Ward,CL167853,1978-10-09,Singapore,rq730306,Passport,2025-03-16,Incomplete,Retail,,,Singapore,Incomplete KYC
+Benjamin Sullivan,CL623354,1969-10-21,Christmas Island,df768342,National ID,2024-04-28,Incomplete,HNI,,,Christmas Island,Incomplete KYC
+Elizabeth Gonzalez,CL799061,1978-01-08,Guam,SK778265,Driver License,2024-02-27,Incomplete,Retail,,,Guam,Incomplete KYC
+Ashley Cordova,CL622332,1977-02-26,Luxembourb,OL480727,Passport,2022-12-01,Incomplete,Retail,,,Luxembourg,Incomplete KYC
+William Fisher,CL897097,1986-08-31,Argentina,,National ID,2023-03-18,Incomplete,Retail,,,Argentina,Incomplete KYC
+Dr. Jason Bell PhD,CL224921,1978-06-25,Reunion,xl851276,Driver License,2024-11-07,Incomplete,Corporate,,,Réunion,Incomplete KYC
+Jeffrey Mitchell,CL917241,1994-05-22,Nepaf,fP649111,National ID,2022-07-28,Incomplete,Retail,,,Nepaf,Incomplete KYC
+Ashley Brady,CL901123,1991-12-15,Nicaragua,Qs817890,National ID,2024-04-16,Incomplete,Corporate,,,Nicaragua,Incomplete KYC
+Jesse James,CL158444,1962-10-23,Croatia,ax715766,Driver License,2023-06-15,Incomplete,HNI,,,Croatia,Incomplete KYC
+Rebecca Lane,CL468332,1958-04-10,India,,Passport,2025-03-17,Incomplete,HNI,,HKBOG6265T,India,"Incomplete KYC, Missing Aadhaar Number"
+Bryan Ray,CL278026,1976-03-06,Spain,,Driver License,2025-03-03,,HNI,,,Spain,Incomplete KYC
+Paula Lopez,CL799806,1993-11-27,Korea,Xq343836,National ID,2025-04-22,Incomplete,Retail,,,"Korea, Republic of",Incomplete KYC
+Timothy Burton,CL925386,1992-12-11,Austria,,National ID,2024-12-18,Incomplete,Retail,,,Austria,Incomplete KYC
+Jorge Hernandez,CL428574,1974-05-02,Mauritania,fU130523,Driver License,2025-06-11,Incomplete,HNI,,,Mauritania,Incomplete KYC
+Donald Gonzalez,CL119506,1955-10-05,Wallis and Futuna,Gz584776,National ID,2023-04-28,Incomplete,Retail,,,Wallis and Futuna,Incomplete KYC
+Michael Clay,CL589994,1968-08-18,El Salvador,Yn619942,National ID,2024-07-29,Incomplete,HNI,,,El Salvador,Incomplete KYC
+Jessica Burgess,CL310394,2005-01-09,Jersey,mK591966,Passport,2024-01-02,Incomplete,Corporate,,,Jersey,Incomplete KYC
+Sabrina Cole,CL167557,1951-10-20,Holy See (Vatican City State),PH849649,Driver License,2024-01-01,Incomplete,HNI,,,Holy See (Vatican City State),Incomplete KYC
+Chris Shaw,CL615576,1984-01-25,Guinea,dP507451,Driver License,2024-02-17,Incomplete,HNI,,,Guinea,Incomplete KYC
+Michelle Myers,CL929443,1956-05-24,Turkmenistan,wO347323,Passport,2023-09-23,Incomplete,Corporate,,,Turkmenistan,Incomplete KYC
+Morgan Davis,CL361728,1983-10-01,Romania,Re974325,National ID,2023-03-18,Incomplete,Corporate,,,Romania,Incomplete KYC
+Jesse Rivers,CL239995,1994-10-29,Colombia,ek765024,National ID,2025-05-23,Incomplete,Corporate,,,Colombia,Incomplete KYC
+Kelly Jackson,CL778540,1959-06-24,French Guiana,Vw114577,Passport,2024-10-27,Incomplete,Retail,,,French Guiana,Incomplete KYC
+Alicia Irwin,CL694797,1964-06-28,Maldives,VS257039,National ID,2024-05-02,Incomplete,HNI,,,Maldives,Incomplete KYC
+Brandon Knapp,CL313013,1975-03-18,Guyana,qR148782,Driver License,2023-12-26,Incomplete,Corporate,,,Guyana,Incomplete KYC
+Walter Sparks,CL130170,1969-02-16,South Africa,Hs107272,Driver License,2025-02-26,Incomplete,Retail,,,South Africa,Incomplete KYC
+Elizabeth Roberts,CL580419,2003-12-05,Moldova,,Driver License,2023-10-03,Incomplete,HNI,,,"Moldova, Republic of",Incomplete KYC
+Shawn Brock,CL616780,1958-12-22,Mongolia,tt342683,Driver License,2022-11-12,Incomplete,HNI,,,Mongolia,Incomplete KYC
+Lori Gardner,CL222517,1975-02-01,French Southern Territories,GR612875,Passport,2024-01-09,Incomplete,HNI,,,French Southern Territories,Incomplete KYC
+John Ali,CL376002,1980-11-22,Lao People's Democratic Republic,Nt080612,Driver License,2023-07-14,Incomplete,Retail,,,Lao People's Democratic Republic,Incomplete KYC
+Bethany Daniels,CL900771,1987-12-28,Mozambique,DZ406260,National ID,2024-09-14,Incomplete,Retail,,,Mozambique,Incomplete KYC
+Angela Nelson,CL292037,1993-09-22,Kuwait,,Driver License,2022-12-16,Incomplete,Corporate,,,Kuwait,Incomplete KYC
+,CL473838,1989-12-12,North korea,hV149750,National ID,2024-12-27,Incomplete,Retail,,,North korea,"Missing Full Name, Incomplete KYC, High-Risk Country"
+Ross Wallace,CL180567,1953-04-16,Bosnia and Herzegovina,Iq146723,Driver License,2025-02-08,Incomplete,Retail,,,Bosnia and Herzegovina,Incomplete KYC
+Dylan Contreras,CL971051,1989-07-26,Cook Islands,DA754661,Driver License,2024-04-22,Incomplete,HNI,,,Cook Islands,Incomplete KYC
+Destiny Holden,CL396698,1973-11-05,Turkmenistan,Ge883586,Passport,2023-03-31,Incomplete,Retail,,,Turkmenistan,Incomplete KYC
+Matthew Hart,CL908323,1980-10-08,Palau,yE244617,Passport,2025-01-29,,Retail,,,Palau,Incomplete KYC
+Michael Hunter,CL398776,1994-05-05,Palestinian Territory,wL842599,National ID,2025-02-16,Incomplete,Corporate,,,Palestinian Territory,Incomplete KYC
+Lisa Pittman,CL555193,1961-05-07,Kenya,Jm517629,Passport,2023-05-03,,Corporate,,,Kenya,Incomplete KYC
+Raymond Carroll,CL940480,1954-05-26,Uganda,KE528733,Passport,2024-08-19,Incomplete,Retail,,,Uganda,Incomplete KYC
+Steven Castaneda,CL150046,2004-01-19,Guinea,fi176619,Passport,2024-09-13,Incomplete,Corporate,,,Guinea,Incomplete KYC
+Tracy Jones,CL924366,1988-08-27,Tunisia,Nd389846,Driver License,2024-10-28,,Corporate,,,Tunisia,Incomplete KYC
+Lauren Giles,CL715732,1967-05-28,Qatar,vW005643,National ID,2022-10-03,Incomplete,Corporate,,,Qatar,Incomplete KYC
+Robert Rivera,CL296284,2001-01-14,Burundi,SW037199,Passport,2022-08-26,Incomplete,HNI,,,Burundi,Incomplete KYC
+,CL222346,1954-04-26,Iran,,National ID,2024-04-09,Incomplete,HNI,,,"Iran, Islamic Republic of","Missing Full Name, Incomplete KYC, High-Risk Country"
+Tanya Clay,CL610365,1982-01-30,Netherlands Antilles,Go240107,National ID,2025-04-08,Incomplete,Corporate,,,Netherlands,Incomplete KYC
+,CL217348,1978-11-13,Guernsee,XY743000,National ID,2023-05-03,Complete,Retail,,,Guernsey,Missing Full Name
+Robert Marks,CL153395,1966-07-05,Montenegro,sc010272,Passport,2023-11-02,Incomplete,Corporate,,,Montenegro,Incomplete KYC
+Stephanie Bolton,CL724783,1958-05-01,Guernsey,qI967111,Driver License,2023-05-18,,Corporate,,,Guernsey,Incomplete KYC
+Ashley Reed,CL166595,1977-06-17,Qatas,Ho974132,National ID,2023-10-19,Incomplete,Retail,,,Qatas,Incomplete KYC
+Barbara Hardy,CL463608,2003-02-14,Saint Vincent and the Grenadines,bF203771,Driver License,2022-08-24,,Corporate,,,Saint Vincent and the Grenadines,Incomplete KYC
+James Wilcox,CL559392,1955-04-03,Faroe Islands,yy049670,Passport,2024-05-22,Incomplete,HNI,,,Faroe Islands,Incomplete KYC
+James Keller,CL591223,1985-09-27,Aruba,MW040850,Driver License,2023-12-07,Incomplete,Corporate,,,Aruba,Incomplete KYC
+Derrick King,CL266309,1993-12-10,Nicaragua,ql901495,National ID,2024-05-22,,Retail,,,Nicaragua,Incomplete KYC
+Adam Johnson,CL337701,1973-11-30,Kyrgyz Republic,fr783609,Passport,2025-02-05,Incomplete,Corporate,,,Central African Republic,Incomplete KYC
+Ryan Atkinson,CL223794,1986-04-12,Equatorial Guined,GC093511,Driver License,2022-12-25,Incomplete,HNI,,,Equatorial Guinea,Incomplete KYC
+Damon Hudson,CL868136,2005-12-04,Malawi,uM616420,Passport,2024-01-13,Incomplete,Retail,,,Malawi,Incomplete KYC
+Stephanie Brooks,CL535945,1969-07-06,Grenada,jL902504,Passport,2022-08-11,Incomplete,Corporate,,,Grenada,Incomplete KYC
+Marie Friedman,CL925455,1964-10-13,Hong Kong,Uh989868,Driver License,2024-09-29,Incomplete,Corporate,,,Hong Kong,Incomplete KYC
+,CL772625,1982-06-13,Palay,iI937639,National ID,2023-07-18,,HNI,,,Palay,"Missing Full Name, Incomplete KYC"
+Megan Wade,CL645027,1990-09-16,Singapore,AA445511,Driver License,2024-08-25,Incomplete,HNI,,,Singapore,Incomplete KYC
+Sean Bass,CL670871,1951-02-17,Samoa,Bw212886,National ID,2023-01-16,Incomplete,HNI,,,Samoa,Incomplete KYC
+Dana Carter,CL416178,1972-06-03,Iran,,National ID,2023-12-07,Complete,HNI,,,"Iran, Islamic Republic of",High-Risk Country
+Laura Gilbert,CL954672,1956-04-09,Jersey,FC542144,National ID,2023-06-15,Incomplete,HNI,,,Jersey,Incomplete KYC
+Amanda Macdonald,CL196729,1986-02-08,Antarctica (the territory South of 60 deg S),,Passport,2023-05-02,Incomplete,Retail,,,Antarctica,Incomplete KYC
+Rodney Wood IV,CL716813,1988-05-15,Albania,hT678274,Driver License,2023-01-05,Incomplete,HNI,,,Albania,Incomplete KYC
