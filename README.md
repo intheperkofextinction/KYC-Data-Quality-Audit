@@ -59,6 +59,13 @@ Each record was tagged based on rule-based flagging logic.
 
 ## 🖥 Report Presentation
 
+###  PowerBI Dashboard
+
+<img width="1729" height="966" alt="image" src="https://github.com/user-attachments/assets/d4499c30-077f-4d51-b3d2-232fb4f95ac5" />
+
+
+
+
 A clean and modern PowerPoint report was prepared to showcase:
 
 - Key issues identified
