@@ -79,7 +79,8 @@ A clean and modern PowerPoint report was prepared to showcase:
 
 - `kyc_data_stimulator.ipynb` → Python notebook for data simulation  
 - `kyc_audit_analysis.ipynb` → Python notebook for cleaning, flagging, and visualizing  
-- `kyc_onboarding_data.csv` → Generated dataset  
+- `kyc_onboarding_data.csv` → Generated dataset
+- `kyc onboarding audit.pbix`→ PowerBI Dashboard
 - `KYC_Data_Audit_Presentation.pptx` → Final PowerPoint report  
 - `README.md` → This file
 
